@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <rect x="1" y="1" width="238" height="198" rx="12" fill="#ffffff" fill-opacity=".72" stroke="#472d25" stroke-opacity=".22" stroke-dasharray="5 5"/>
+  <text x="120" y="91" fill="#245b40" font-family="sans-serif" font-size="15" font-weight="700" text-anchor="middle">PRODUCT PHOTO</text>
+  <text x="120" y="115" fill="#6f655c" font-family="sans-serif" font-size="12" text-anchor="middle">NEEDED</text>
+  <text x="120" y="145" fill="#82776e" font-family="sans-serif" font-size="9" text-anchor="middle">Replace with an authentic</text>
+  <text x="120" y="159" fill="#82776e" font-family="sans-serif" font-size="9" text-anchor="middle">product package photo</text>
+</svg>
