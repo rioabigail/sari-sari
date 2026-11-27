@@ -80,7 +80,7 @@ app.innerHTML = `
         </div>
         <div class="hero-visual">
           <div class="hero-image-frame">
-            <img src="/images/hero-banner.svg" alt="Illustrated Filipino neighborhood sari-sari store" />
+            <img src="/images/hero-storefront.png" alt="Illustrated Filipino neighborhood sari-sari store" />
           </div>
           <div class="hero-sticker"><span aria-hidden="true">☺</span><strong>Uy, kapitbahay!</strong><small>Drop by anytime</small></div>
           <span class="hero-sparkle sparkle-one" aria-hidden="true">✳</span>
@@ -161,7 +161,7 @@ app.innerHTML = `
     <section class="section about-section" id="about">
       <div class="container about-grid">
         <div class="about-visual">
-          <div class="about-image-frame"><img src="/images/store-interior.svg" alt="Illustrated placeholder for a sari-sari store interior" /></div>
+          <div class="about-image-frame"><img src="/images/about-storefront.png" alt="Illustrated placeholder for a sari-sari store interior" /></div>
           <div class="about-note"><span aria-hidden="true">♡</span><span>Real stories,<br />from right here.</span></div>
           <span class="about-caption">A PLACE FOR THE EVERYDAY</span>
         </div>
